@@ -8,6 +8,6 @@ This repository contains lab tasks for the TEB1113 Algorithm and Data Structure 
 
 | Date       | Lab   | Tasks                                                                 |
 |------------|--------|-----------------------------------------------------------------------|
-| 28/5/2025  | Lab 1 | -         |
+| 28/5/2025  | Lab 1 | - lab 1 DSA.cpp |
 | 10/6/2025  | Lab 2 | -  |
 
